@@ -1,5 +1,9 @@
-const CACHE = 'oneflix-v1';
-const ASSETS = ['/', '/index.html'];
+const CACHE = 'ro5tik-v1';
+const ASSETS = [
+  './',
+  './index.html',
+  './manifest.json'
+];
 
 self.addEventListener('install', e => {
   e.waitUntil(

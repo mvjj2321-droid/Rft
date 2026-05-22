@@ -1,28 +1,27 @@
 {
-  "name": "OneFlix",
-  "short_name": "OneFlix",
+  "name": "RO5TIK",
+  "short_name": "RO5TIK",
   "description": "Your Personal Film Universe",
-  "start_url": "/",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#000000",
-  "theme_color": "#000000",
+  "theme_color": "#FF5E00",
   "orientation": "portrait",
-  "scope": "/",
+  "scope": "./",
   "lang": "en",
   "icons": [
     {
-      "src": "https://via.placeholder.com/192x192/000000/C9A84C?text=OF",
+      "src": "icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://via.placeholder.com/512x512/000000/C9A84C?text=OF",
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     }
   ],
-  "screenshots": [],
   "categories": ["entertainment"]
 }

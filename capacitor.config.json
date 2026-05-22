@@ -1,0 +1,15 @@
+{
+  "appId": "com.yourname.ro5tik",
+  "appName": "RO5TIK",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  },
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  }
+}
