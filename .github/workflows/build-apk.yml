@@ -19,10 +19,9 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'
 
       - name: Install npm dependencies
-        run: npm install
+        run: npm install --no-package-lock
 
       - name: Set up Java 17
         uses: actions/setup-java@v4
