@@ -1,0 +1,28 @@
+{
+  "name": "OneFlix",
+  "short_name": "OneFlix",
+  "description": "Your Personal Film Universe",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "scope": "/",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/000000/C9A84C?text=OF",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/000000/C9A84C?text=OF",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [],
+  "categories": ["entertainment"]
+}
